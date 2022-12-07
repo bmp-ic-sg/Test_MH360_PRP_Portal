@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Set up your login credentials and updat_4ac76b_1</name>
+   <tag></tag>
+   <elementGuidId>fc209408-effb-4f12-9393-6fa5f7910746</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#error-message-info-user</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error-message-info-user']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b716f942-1a08-4459-bab6-e90c75324324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>error-message-info-user</value>
+      <webElementGuid>dd372f0c-8b1b-4d7b-b1c4-30cda124c06f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Set up your login credentials and update your required personal details to complete your registration.</value>
+      <webElementGuid>fca2a5fc-4dad-45ff-9c7f-bd226e5180dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;error-message-info-user&quot;)</value>
+      <webElementGuid>e0b6fd97-30fb-40fd-8243-1d498ee740c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='error-message-info-user']</value>
+      <webElementGuid>1cf23a60-ab52-40b2-b3c3-632d742af41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personal_info_part']/div[2]/div/div[2]/div</value>
+      <webElementGuid>5fd1c201-813f-4622-a2e9-7c3c588a0989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Password'])[1]/following::div[5]</value>
+      <webElementGuid>69f20a78-7fa3-4aee-a4c8-bd411534acae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error occured'])[1]/following::div[22]</value>
+      <webElementGuid>82a4f7fc-5a16-4b97-8c31-f049c48c2fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::div[2]</value>
+      <webElementGuid>641c38d6-20b0-493b-bff9-76cbbe630102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[4]</value>
+      <webElementGuid>453274e2-5504-4d4e-8fb8-204bfd11d41c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Set up your login credentials and update your required personal details to complete your registration.']/parent::*</value>
+      <webElementGuid>38f2b4fd-5d6c-4164-aa98-0ec385286223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>d0bbac4b-83f9-4b5c-a778-05ef962a019a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'error-message-info-user' and (text() = 'Set up your login credentials and update your required personal details to complete your registration.' or . = 'Set up your login credentials and update your required personal details to complete your registration.')]</value>
+      <webElementGuid>21eda94c-92e8-40ec-9caf-45a35f6280ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

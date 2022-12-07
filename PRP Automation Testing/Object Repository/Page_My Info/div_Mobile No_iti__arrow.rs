@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mobile No_iti__arrow</name>
+   <tag></tag>
+   <elementGuidId>39f433d9-e6a0-49cb-baf1-39a3f8496fd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='group-phone']/div/div/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.iti__arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b1b7f36-fc07-43cf-8467-667397b3984d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iti__arrow</value>
+      <webElementGuid>9dcf3a2a-d956-485a-97f8-ee87592ac897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;group-phone&quot;)/div[@class=&quot;input-group&quot;]/div[@class=&quot;iti iti--allow-dropdown iti--separate-dial-code&quot;]/div[@class=&quot;iti__flag-container&quot;]/div[@class=&quot;iti__selected-flag&quot;]/div[@class=&quot;iti__arrow&quot;]</value>
+      <webElementGuid>228867b6-9d2a-4ef6-8e8c-d5139ffde884</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='group-phone']/div/div/div/div/div[3]</value>
+      <webElementGuid>134b3ed6-f799-4dfe-9f30-7961950aecea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[3]</value>
+      <webElementGuid>7dd27f6d-80f9-4588-8407-b7805b8ff57b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

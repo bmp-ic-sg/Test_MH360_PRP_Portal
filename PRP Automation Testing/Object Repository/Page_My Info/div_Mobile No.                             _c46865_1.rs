@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mobile No.                             _c46865_1</name>
+   <tag></tag>
+   <elementGuidId>0fdaa5e6-43d7-4ba3-9d2a-560d489d512f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='group-phone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#group-phone</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b21f8b68-5dec-4a76-a5cf-1d52f672d635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>group-phone</value>
+      <webElementGuid>c9dc698e-4de5-448b-901d-b5165eb89353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group</value>
+      <webElementGuid>27455577-ac4a-42f9-97ee-dc859eced7b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mobile No.
+                                     +65Singapore+65Indonesia+62Malaysia+60Afghanistan+93Åland Islands+358Albania+355Algeria+213American Samoa+1Andorra+376Angola+244Anguilla+1Antigua And Barbuda+1Argentina+54Armenia+374Aruba+297Australia+61Austria+43Azerbaijan+994Bahamas+1Bahrain+973Bangladesh+880Barbados+1Belarus+375Belgium+32Belize+501Benin+229Bermuda+1Bhutan+975Bolivia, Plurinational State Of+591Bonaire, Sint Eustatius And Saba+599Bosnia And Herzegovina+387Botswana+267Brazil+55British Indian Ocean Territory+246Brunei Darussalam+673Bulgaria+359Burundi+257Cambodia+855Cameroon+237Canada+1Cape Verde+238Cayman Islands+1Central African Republic+236Chad+235Channel Islands+44Chile+56China+86Christmas Island+61Cocos (Keeling) Islands+61Colombia+57Comoros+269Cook Islands+682Costa Rica+506Croatia+385Cuba+53Curaçao+599Cyprus+357Czech Republic+420Denmark+45Djibouti+253Dominica+1Dominican Republic+1Ecuador+593Egypt+20El Salvador+503Equatorial Guinea+240Eritrea+291Estonia+372Ethiopia+251Falkland Islands (Malvinas)+500Faroe Islands+298Fiji+679Finland+358France+33French Guiana+594French Polynesia+689Gabon+241Gambia+220Gaza+970Georgia+995Germany+49Ghana+233Gibraltar+350Greece+30Greenland+299Grenada+1Guadeloupe+590Guam+1Guatemala+502Guernsey+44Guinea+224Guinea-Bissau+245Guyana+592Haiti+509Holy See (Vatican City State)+39Honduras+504Hong Kong+852Hungary+36Iceland+354India+91Indonesia+62Iran, Islamic Republic Of+98Iraq+964Ireland+353Isle Of Man+44Israel+972Italy+39Ivory Coast+225Jamaica+1Japan+81Jersey+44Jordan+962Kazakhstan+7Kenya+254Kirghizia+996Kiribati+686Korea, Democratic People's Republic Of+850Korea, Republic Of+82Kosovo+383Kuwait+965Laos+856Latvia+371Lebanon+961Lesotho+266Liberia+231Libya+218Liechtenstein+423Lithuania+370Luxembourg+352Macao Sar+853Madagascar+261Malawi+265Malaysia+60Maldives+960Mali+223Malta+356Marshall Islands+692Martinique+596Mauritius+230Mayotte+262Mexico+52Micronesia, Federated States Of+222Midway Islands+1Moldova, Republic Of+373Monaco+377Mongolia+976Montenegro+382Montserrat+1Morocco+212Mozambique+258Myanmar+95Namibia+264Nauru+674Nepal+977Netherlands+31New Caledonia+687New Zealand+64Nicaragua+505Niger+227Nigeria+234Niue+683Norfolk Island+672North Macedonia+389Northern Mariana Islands+1Norway+47Oman+968Pakistan+92Palau+680Panama+507Papua New Guinea+675Paraguay+595Peru+51Philippines+63Poland+48Portugal+351Puerto Rico+1Qatar+974Réunion+262Romania+40Russian Federation+7Rwanda+250Saint Barthélemy+590Saint Helena, Ascension And Tristan Da Cunha+290Saint Kitts And Nevis+1Saint Lucia+1Saint Pierre And Miquelon+508Saint Vincent And The Grenadines+1Samoa+685San Marino+378Sao Tome And Principe+239Saudi Arabia+966Senegal+221Serbia/Montenegro+381Seychelles+248Sierra Leone+232Singapore+65Sint Maarten (Dutch Part)+1Slovakia+421Slovenia+386Solomon Islands+677Somalia+252South Africa+27South Sudan+211Spain+34Sri Lanka+94Sudan+249Suriname+597Svalbard And Jan Mayen+47Swaziland+268Sweden+46Switzerland+41Syrian Arab Republic+963Taiwan, Province Of China+886Tajikistan+992Tanzania, United Republic Of+255Thailand+66Timor-Leste+670Togo+228Tokelau+690Tonga+676Trinidad And Tobago+1Tunisia+216Turkey+90Turkmenistan+993Turks And Caicos Islands+1Tuvalu+688Uganda+256Ukraine+380United Arab Emirates+971Upper Volta+226Uruguay+598Uzbekistan+998Vanuatu+678Venezuela, Bolivarian Republic Of+58Vietnam+84Virgin Islands, British+1Virgin Islands, U.S.+1Wallis And Futuna+681Western Sahara+212Yemen+967Zaire+242Zambia+260Zimbabwe+263 Please provide a valid number.
+                                    </value>
+      <webElementGuid>9cd75185-8f30-4837-967a-e3c0cd5104fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;group-phone&quot;)</value>
+      <webElementGuid>045d631d-6571-430d-a8fe-71043f80a549</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='group-phone']</value>
+      <webElementGuid>ef7e46d8-bf2e-49f6-811e-d76586be8fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personal_info_part']/form/div[4]</value>
+      <webElementGuid>94193a2b-3083-4b44-b581-882d28127dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimum 8 characters'])[1]/following::div[1]</value>
+      <webElementGuid>ff3b64eb-619f-421c-9147-2177ad851afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='At least one special character'])[1]/following::div[1]</value>
+      <webElementGuid>9e5ddfb9-4971-4b54-8eb9-61ab82ba82cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]</value>
+      <webElementGuid>17e97eb6-db02-4b0e-a91b-a8e50ceb376e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'group-phone' and (text() = concat(&quot;Mobile No.
+                                     +65Singapore+65Indonesia+62Malaysia+60Afghanistan+93Åland Islands+358Albania+355Algeria+213American Samoa+1Andorra+376Angola+244Anguilla+1Antigua And Barbuda+1Argentina+54Armenia+374Aruba+297Australia+61Austria+43Azerbaijan+994Bahamas+1Bahrain+973Bangladesh+880Barbados+1Belarus+375Belgium+32Belize+501Benin+229Bermuda+1Bhutan+975Bolivia, Plurinational State Of+591Bonaire, Sint Eustatius And Saba+599Bosnia And Herzegovina+387Botswana+267Brazil+55British Indian Ocean Territory+246Brunei Darussalam+673Bulgaria+359Burundi+257Cambodia+855Cameroon+237Canada+1Cape Verde+238Cayman Islands+1Central African Republic+236Chad+235Channel Islands+44Chile+56China+86Christmas Island+61Cocos (Keeling) Islands+61Colombia+57Comoros+269Cook Islands+682Costa Rica+506Croatia+385Cuba+53Curaçao+599Cyprus+357Czech Republic+420Denmark+45Djibouti+253Dominica+1Dominican Republic+1Ecuador+593Egypt+20El Salvador+503Equatorial Guinea+240Eritrea+291Estonia+372Ethiopia+251Falkland Islands (Malvinas)+500Faroe Islands+298Fiji+679Finland+358France+33French Guiana+594French Polynesia+689Gabon+241Gambia+220Gaza+970Georgia+995Germany+49Ghana+233Gibraltar+350Greece+30Greenland+299Grenada+1Guadeloupe+590Guam+1Guatemala+502Guernsey+44Guinea+224Guinea-Bissau+245Guyana+592Haiti+509Holy See (Vatican City State)+39Honduras+504Hong Kong+852Hungary+36Iceland+354India+91Indonesia+62Iran, Islamic Republic Of+98Iraq+964Ireland+353Isle Of Man+44Israel+972Italy+39Ivory Coast+225Jamaica+1Japan+81Jersey+44Jordan+962Kazakhstan+7Kenya+254Kirghizia+996Kiribati+686Korea, Democratic People&quot; , &quot;'&quot; , &quot;s Republic Of+850Korea, Republic Of+82Kosovo+383Kuwait+965Laos+856Latvia+371Lebanon+961Lesotho+266Liberia+231Libya+218Liechtenstein+423Lithuania+370Luxembourg+352Macao Sar+853Madagascar+261Malawi+265Malaysia+60Maldives+960Mali+223Malta+356Marshall Islands+692Martinique+596Mauritius+230Mayotte+262Mexico+52Micronesia, Federated States Of+222Midway Islands+1Moldova, Republic Of+373Monaco+377Mongolia+976Montenegro+382Montserrat+1Morocco+212Mozambique+258Myanmar+95Namibia+264Nauru+674Nepal+977Netherlands+31New Caledonia+687New Zealand+64Nicaragua+505Niger+227Nigeria+234Niue+683Norfolk Island+672North Macedonia+389Northern Mariana Islands+1Norway+47Oman+968Pakistan+92Palau+680Panama+507Papua New Guinea+675Paraguay+595Peru+51Philippines+63Poland+48Portugal+351Puerto Rico+1Qatar+974Réunion+262Romania+40Russian Federation+7Rwanda+250Saint Barthélemy+590Saint Helena, Ascension And Tristan Da Cunha+290Saint Kitts And Nevis+1Saint Lucia+1Saint Pierre And Miquelon+508Saint Vincent And The Grenadines+1Samoa+685San Marino+378Sao Tome And Principe+239Saudi Arabia+966Senegal+221Serbia/Montenegro+381Seychelles+248Sierra Leone+232Singapore+65Sint Maarten (Dutch Part)+1Slovakia+421Slovenia+386Solomon Islands+677Somalia+252South Africa+27South Sudan+211Spain+34Sri Lanka+94Sudan+249Suriname+597Svalbard And Jan Mayen+47Swaziland+268Sweden+46Switzerland+41Syrian Arab Republic+963Taiwan, Province Of China+886Tajikistan+992Tanzania, United Republic Of+255Thailand+66Timor-Leste+670Togo+228Tokelau+690Tonga+676Trinidad And Tobago+1Tunisia+216Turkey+90Turkmenistan+993Turks And Caicos Islands+1Tuvalu+688Uganda+256Ukraine+380United Arab Emirates+971Upper Volta+226Uruguay+598Uzbekistan+998Vanuatu+678Venezuela, Bolivarian Republic Of+58Vietnam+84Virgin Islands, British+1Virgin Islands, U.S.+1Wallis And Futuna+681Western Sahara+212Yemen+967Zaire+242Zambia+260Zimbabwe+263 Please provide a valid number.
+                                    &quot;) or . = concat(&quot;Mobile No.
+                                     +65Singapore+65Indonesia+62Malaysia+60Afghanistan+93Åland Islands+358Albania+355Algeria+213American Samoa+1Andorra+376Angola+244Anguilla+1Antigua And Barbuda+1Argentina+54Armenia+374Aruba+297Australia+61Austria+43Azerbaijan+994Bahamas+1Bahrain+973Bangladesh+880Barbados+1Belarus+375Belgium+32Belize+501Benin+229Bermuda+1Bhutan+975Bolivia, Plurinational State Of+591Bonaire, Sint Eustatius And Saba+599Bosnia And Herzegovina+387Botswana+267Brazil+55British Indian Ocean Territory+246Brunei Darussalam+673Bulgaria+359Burundi+257Cambodia+855Cameroon+237Canada+1Cape Verde+238Cayman Islands+1Central African Republic+236Chad+235Channel Islands+44Chile+56China+86Christmas Island+61Cocos (Keeling) Islands+61Colombia+57Comoros+269Cook Islands+682Costa Rica+506Croatia+385Cuba+53Curaçao+599Cyprus+357Czech Republic+420Denmark+45Djibouti+253Dominica+1Dominican Republic+1Ecuador+593Egypt+20El Salvador+503Equatorial Guinea+240Eritrea+291Estonia+372Ethiopia+251Falkland Islands (Malvinas)+500Faroe Islands+298Fiji+679Finland+358France+33French Guiana+594French Polynesia+689Gabon+241Gambia+220Gaza+970Georgia+995Germany+49Ghana+233Gibraltar+350Greece+30Greenland+299Grenada+1Guadeloupe+590Guam+1Guatemala+502Guernsey+44Guinea+224Guinea-Bissau+245Guyana+592Haiti+509Holy See (Vatican City State)+39Honduras+504Hong Kong+852Hungary+36Iceland+354India+91Indonesia+62Iran, Islamic Republic Of+98Iraq+964Ireland+353Isle Of Man+44Israel+972Italy+39Ivory Coast+225Jamaica+1Japan+81Jersey+44Jordan+962Kazakhstan+7Kenya+254Kirghizia+996Kiribati+686Korea, Democratic People&quot; , &quot;'&quot; , &quot;s Republic Of+850Korea, Republic Of+82Kosovo+383Kuwait+965Laos+856Latvia+371Lebanon+961Lesotho+266Liberia+231Libya+218Liechtenstein+423Lithuania+370Luxembourg+352Macao Sar+853Madagascar+261Malawi+265Malaysia+60Maldives+960Mali+223Malta+356Marshall Islands+692Martinique+596Mauritius+230Mayotte+262Mexico+52Micronesia, Federated States Of+222Midway Islands+1Moldova, Republic Of+373Monaco+377Mongolia+976Montenegro+382Montserrat+1Morocco+212Mozambique+258Myanmar+95Namibia+264Nauru+674Nepal+977Netherlands+31New Caledonia+687New Zealand+64Nicaragua+505Niger+227Nigeria+234Niue+683Norfolk Island+672North Macedonia+389Northern Mariana Islands+1Norway+47Oman+968Pakistan+92Palau+680Panama+507Papua New Guinea+675Paraguay+595Peru+51Philippines+63Poland+48Portugal+351Puerto Rico+1Qatar+974Réunion+262Romania+40Russian Federation+7Rwanda+250Saint Barthélemy+590Saint Helena, Ascension And Tristan Da Cunha+290Saint Kitts And Nevis+1Saint Lucia+1Saint Pierre And Miquelon+508Saint Vincent And The Grenadines+1Samoa+685San Marino+378Sao Tome And Principe+239Saudi Arabia+966Senegal+221Serbia/Montenegro+381Seychelles+248Sierra Leone+232Singapore+65Sint Maarten (Dutch Part)+1Slovakia+421Slovenia+386Solomon Islands+677Somalia+252South Africa+27South Sudan+211Spain+34Sri Lanka+94Sudan+249Suriname+597Svalbard And Jan Mayen+47Swaziland+268Sweden+46Switzerland+41Syrian Arab Republic+963Taiwan, Province Of China+886Tajikistan+992Tanzania, United Republic Of+255Thailand+66Timor-Leste+670Togo+228Tokelau+690Tonga+676Trinidad And Tobago+1Tunisia+216Turkey+90Turkmenistan+993Turks And Caicos Islands+1Tuvalu+688Uganda+256Ukraine+380United Arab Emirates+971Upper Volta+226Uruguay+598Uzbekistan+998Vanuatu+678Venezuela, Bolivarian Republic Of+58Vietnam+84Virgin Islands, British+1Virgin Islands, U.S.+1Wallis And Futuna+681Western Sahara+212Yemen+967Zaire+242Zambia+260Zimbabwe+263 Please provide a valid number.
+                                    &quot;))]</value>
+      <webElementGuid>53b9846d-c747-4120-8a87-400d69d5c5b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

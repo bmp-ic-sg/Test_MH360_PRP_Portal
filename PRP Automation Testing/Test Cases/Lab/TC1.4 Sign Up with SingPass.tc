@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can Sign Up with SingPass account</description>
+   <name>TC1.4 Sign Up with SingPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7256ef9-8742-4e87-b7b7-c3be9c8069da</testCaseGuid>
+</TestCaseEntity>

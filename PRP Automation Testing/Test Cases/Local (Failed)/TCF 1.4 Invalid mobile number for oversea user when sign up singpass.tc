@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate email/mobile number when sign up via singpass.</description>
+   <name>TCF 1.4 Invalid mobile number for oversea user when sign up singpass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca202d84-a23b-4814-9c87-86228f5d8a93</testCaseGuid>
+</TestCaseEntity>

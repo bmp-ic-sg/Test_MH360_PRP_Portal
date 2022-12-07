@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>uat</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Profile name</description>
+      <initValue>'UAT'</initValue>
+      <name>ProfileName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>UAT MH360 PRP url</description>
+      <initValue>'https://ssosoduat.parkwaypantai.com/mh360-signup'</initValue>
+      <name>BaseUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

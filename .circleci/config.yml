@@ -1,0 +1,229 @@
+version: '2.1'
+orbs:
+  aws-s3: circleci/aws-s3@3.0
+  email: cinotify/email@1.2.0
+jobs:
+  Build-LAB:
+    docker:
+      - image: cimg/openjdk:15.0.1
+    steps:
+      - checkout
+      - run:
+          command: find . -name 'pom.xml' | sort | xargs cat > /tmp/maven_cache_seed
+          working_directory: ~/project
+      - restore_cache:
+          key: circleci-java-maven-{{ checksum "/tmp/maven_cache_seed" }}
+      - run:
+          command: mvn -Plab clean package
+          working_directory: ~/project    
+      - save_cache:
+          paths:
+            - ~/.m2/repository
+          key: circleci-java-maven-{{ checksum "/tmp/maven_cache_seed" }}
+      - store_test_results:
+          path: ~/project/target/mh360-signup.war
+      - store_artifacts:
+          path: ~/project/target/mh360-signup.war
+      - persist_to_workspace:
+          root: ~/project/target/
+          paths: .    
+  Build-UAT:
+    docker:
+      - image: cimg/openjdk:15.0.1
+    steps:
+      - checkout
+      - run:
+          command: find . -name 'pom.xml' | sort | xargs cat > /tmp/maven_cache_seed
+          working_directory: ~/project
+      - restore_cache:
+          key: circleci-java-maven-{{ checksum "/tmp/maven_cache_seed" }}
+      - run:
+          command: mvn -Puat clean package
+          working_directory: ~/project    
+      - save_cache:
+          paths:
+            - ~/.m2/repository
+          key: circleci-java-maven-{{ checksum "/tmp/maven_cache_seed" }}
+      - store_test_results:
+          path: ~/project/target/mh360-signup.war
+      - store_artifacts:
+          path: ~/project/target/mh360-signup.war
+      - persist_to_workspace:
+          root: ~/project/target/
+          paths: .        
+  Build-PROD-18-5:
+    docker:
+      - image: cimg/openjdk:15.0.1
+    steps:
+      - checkout
+      - run:
+          command: find . -name 'pom.xml' | sort | xargs cat > /tmp/maven_cache_seed
+          working_directory: ~/project
+      - restore_cache:
+          key: circleci-java-maven-{{ checksum "/tmp/maven_cache_seed" }}
+      - run:
+          command: mvn -Pprod clean package
+          working_directory: ~/project    
+      - save_cache:
+          paths:
+            - ~/.m2/repository
+          key: circleci-java-maven-{{ checksum "/tmp/maven_cache_seed" }}
+      - store_test_results:
+          path: ~/project/target/mh360-signup.war
+      - store_artifacts:
+          path: ~/project/target/mh360-signup.war
+      - persist_to_workspace:
+          root: ~/project/target/
+          paths: .        
+  Build-PROD-19-5:
+    docker:
+      - image: cimg/openjdk:15.0.1
+    steps:
+      - checkout
+      - run:
+          command: find . -name 'pom.xml' | sort | xargs cat > /tmp/maven_cache_seed
+          working_directory: ~/project
+      - restore_cache:
+          key: circleci-java-maven-{{ checksum "/tmp/maven_cache_seed" }}
+      - run:
+          command: mvn -Pprod clean package
+          working_directory: ~/project    
+      - save_cache:
+          paths:
+            - ~/.m2/repository
+          key: circleci-java-maven-{{ checksum "/tmp/maven_cache_seed" }}
+      - store_test_results:
+          path: ~/project/target/mh360-signup.war
+      - store_artifacts:
+          path: ~/project/target/mh360-signup.war
+      - persist_to_workspace:
+          root: ~/project/target/
+          paths: . 
+  Deploy-to-S3-LAB:
+    docker:
+      - image: 'cimg/python:3.9'
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ~/project/target/mh360-signup.war
+      - run: ls
+      - aws-s3/sync:
+          arguments: |
+            --cache-control "max-age=86400"
+          from: ~/project/target/mh360-signup.war
+          to: 's3://sdh-ca/circleci/MH360/archive/'
+      - aws-s3/copy:
+          arguments: --dryrun
+          from: ~/project/target/mh360-signup.war
+          to: 's3://sdh-ca/circleci/MH360/archive/'
+  Deploy-to-S3-UAT:
+    docker:
+      - image: 'cimg/python:3.9'
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ~/project/target/mh360-signup.war
+      - run: ls
+      - aws-s3/sync:
+          arguments: |
+            --cache-control "max-age=86400"
+          from: ~/project/target/mh360-signup.war
+          to: 's3://sdh-ca-pub/circleci/MH360/archive/'
+      - aws-s3/copy:
+          arguments: --dryrun
+          from: ~/project/target/mh360-signup.war
+          to: 's3://sdh-ca-pub/circleci/MH360/archive/'               
+  Deploy-to-S3-PROD-18-5:
+    docker:
+      - image: 'cimg/python:3.9'
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ~/project/target/mh360-signup.war
+      - run: ls
+      - aws-s3/sync:
+          arguments: |
+            --cache-control "max-age=86400"
+          from: ~/project/target/mh360-signup.war
+          to: 's3://sdh-ca-pub/circleci/MH360/PROD-18-5/archive/'
+      - aws-s3/copy:
+          arguments: --dryrun
+          from: ~/project/target/mh360-signup.war
+          to: 's3://sdh-ca-pub/circleci/MH360/PROD-18-5/archive/'
+  Deploy-to-S3-PROD-19-5:
+    docker:
+      - image: 'cimg/python:3.9'
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ~/project/target/mh360-signup.war
+      - run: ls
+      - aws-s3/sync:
+          arguments: |
+            --cache-control "max-age=86400"
+          from: ~/project/target/mh360-signup.war
+          to: 's3://sdh-ca-pub/circleci/MH360/PROD-19-5/archive/'
+      - aws-s3/copy:
+          arguments: --dryrun
+          from: ~/project/target/mh360-signup.war
+          to: 's3://sdh-ca-pub/circleci/MH360/PROD-19-5/archive/'
+workflows:
+  version: 2
+  build-test-and-approval-deploy:
+    jobs:
+      - Hold-LAB:
+          type: approval
+          requires:
+            - email/send
+          filters:
+            branches:
+              only: development
+      - Hold-UAT:
+          type: approval
+          requires:
+            - email/send
+          filters:
+            branches:
+              only: development
+      - Hold-PROD-18-5:
+          type: approval
+          requires:
+            - email/send
+          filters:
+            branches:
+              only: development
+      - Hold-PROD-19-5:
+          type: approval
+          requires:
+            - Deploy-to-S3-PROD-18-5
+          filters:
+            branches:
+              only: development
+      - email/send:
+          body: 'Please approve hold build process at https://app.circleci.com/pipelines/github/ParkwayPantai/MH360_PRP_Portal'
+          subject: CircleCI job startedd
+          to: ivan.simbolon@gmail.com
+      - Build-LAB:
+          requires:
+            - Hold-LAB
+      - Build-UAT:
+          requires:
+            - Hold-UAT   
+      - Build-PROD-18-5:
+          requires:
+            - Hold-PROD-18-5
+      - Build-PROD-19-5:
+          requires:
+            - Hold-PROD-19-5
+      - Deploy-to-S3-LAB:
+          requires:
+            - Build-LAB
+      - Deploy-to-S3-UAT:
+          requires:
+            - Build-UAT
+      - Deploy-to-S3-PROD-18-5:
+          requires:
+            - Build-PROD-18-5
+      - Deploy-to-S3-PROD-19-5:
+          requires:
+            - Build-PROD-19-5

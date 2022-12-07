@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if users can navigated to &quot;Login&quot; page from &quot;Create Account&quot; page.</description>
+   <name>TC1.1 Login Hyperlink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d0eddb0-97bc-43fd-82c1-d9a86477c3b7</testCaseGuid>
+</TestCaseEntity>

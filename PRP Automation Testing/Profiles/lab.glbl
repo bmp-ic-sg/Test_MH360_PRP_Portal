@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>lab</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Profile name</description>
+      <initValue>'LAB'</initValue>
+      <name>ProfileName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Lab MH360 PRP url</description>
+      <initValue>'https://gluu-ppl.azlabs.sg/mh360-signup'</initValue>
+      <name>BaseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/rest/myinfo/callback?code='</initValue>
+      <name>MyInfoCallbackAPI</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'katalon.user.1@mail.com'</initValue>
+      <name>TestEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'P@ssw0rd'</initValue>
+      <name>TestPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>3</initValue>
+      <name>MaxUserCreate</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

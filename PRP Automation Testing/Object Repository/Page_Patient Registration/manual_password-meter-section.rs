@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>manual_password-meter-section</name>
+   <tag></tag>
+   <elementGuidId>5fcf7f87-c1bc-44ef-ba47-abbdf40eb37c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='account_info_part']/form/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body.bg-card.card-password</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9aa936b-7d0f-43d3-ba2a-0b8fdad14b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body bg-card card-password</value>
+      <webElementGuid>b7441c4a-0e5a-44d7-a9ae-b10557b8e984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your password should have:   At least one number  At least one uppercase and one lowercase letter  At least one special character  Minimum 8 characters</value>
+      <webElementGuid>4f12a1eb-cff4-46dc-9210-724188468696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account_info_part&quot;)/form[1]/div[@class=&quot;group&quot;]/div[@class=&quot;card bg-message&quot;]/div[@class=&quot;card-body bg-card card-password&quot;]</value>
+      <webElementGuid>f5a7320f-3902-4f40-b10a-300b53d159b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b29a1ef1-c294-4582-b8d4-5df41b3807de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body bg-card card-password</value>
+      <webElementGuid>28b71bcb-b365-4247-a76b-1e3b8dfd151e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your password should have:   At least one number  At least one uppercase and one lowercase letter  At least one special character  Minimum 8 characters</value>
+      <webElementGuid>a14a8958-929f-4a4c-a9f6-b1d901743b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account_info_part&quot;)/form[1]/div[@class=&quot;group&quot;]/div[@class=&quot;card bg-message&quot;]/div[@class=&quot;card-body bg-card card-password&quot;]</value>
+      <webElementGuid>bea129a4-60b1-4adb-b71c-b99e1c68cc00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account_info_part']/form/div[3]/div/div</value>
+      <webElementGuid>febc1f9c-6ee6-4583-8548-2cb1926b40a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[3]</value>
+      <webElementGuid>01583175-c6ac-4f0f-b6bf-86e6b4760191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[5]</value>
+      <webElementGuid>07b6703a-dd5d-4746-930c-3c23d4401357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/div/div</value>
+      <webElementGuid>27d61af2-ba14-42b5-bc49-87986f3e03fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Your password should have:   At least one number  At least one uppercase and one lowercase letter  At least one special character  Minimum 8 characters' or . = 'Your password should have:   At least one number  At least one uppercase and one lowercase letter  At least one special character  Minimum 8 characters')]</value>
+      <webElementGuid>8bfaf5aa-98f4-4e1e-83ce-57abc0a9cff8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

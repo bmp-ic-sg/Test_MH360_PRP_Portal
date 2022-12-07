@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Enter your OTP</name>
+   <tag></tag>
+   <elementGuidId>4ae0acef-bb34-4c4b-aceb-f2126181df03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prp-label-title-step3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='prp-label-title-step3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4930747-e301-4cab-9567-9c984304f4d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>prp-label-title-step3</value>
+      <webElementGuid>42359431-2466-4816-93a0-970955fb14f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-28px text-grey-dark</value>
+      <webElementGuid>d8297a15-b24c-401d-915d-3058f7d1d8c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter your OTP</value>
+      <webElementGuid>eb47341b-1a8c-43a0-b339-5129b570d89a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prp-label-title-step3&quot;)</value>
+      <webElementGuid>ca5d3d63-5832-462d-aaaa-867d3a443bd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='prp-label-title-step3']</value>
+      <webElementGuid>da4959df-6576-4aa1-8e2e-3171c30977a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='verification-part']/div/span</value>
+      <webElementGuid>e4ec0c2d-71a9-459c-8242-8f145e666070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error occured'])[1]/following::span[5]</value>
+      <webElementGuid>4c0d7870-6172-422e-a007-25e2c3bf9ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success!'])[1]/following::span[5]</value>
+      <webElementGuid>65e5beff-1d65-4c2b-858f-cd6e1a846cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A one-time PIN has been sent via SMS to your mobile number'])[1]/preceding::span[1]</value>
+      <webElementGuid>3223d3c0-e9e6-413c-bd67-16fc471c5df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend the OTP to my mobile phone in: 41.'])[1]/preceding::span[1]</value>
+      <webElementGuid>1ec745b0-2dc6-4b22-ba24-d055eaac1ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enter your OTP']/parent::*</value>
+      <webElementGuid>2f86ac07-b851-41ac-9970-0c5df07ba02f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span</value>
+      <webElementGuid>ad8d5fae-1f67-41fe-ab9f-d0d81c26f9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'prp-label-title-step3' and (text() = 'Enter your OTP' or . = 'Enter your OTP')]</value>
+      <webElementGuid>d5ac6084-5050-4455-adda-d4358e6860b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

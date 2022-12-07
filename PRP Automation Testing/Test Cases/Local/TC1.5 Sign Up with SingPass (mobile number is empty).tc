@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User oversea decide to create account with &quot;Singpass&quot;</description>
+   <name>TC1.5 Sign Up with SingPass (mobile number is empty)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85376ee2-f172-404c-ba8d-9523189d7302</testCaseGuid>
+</TestCaseEntity>

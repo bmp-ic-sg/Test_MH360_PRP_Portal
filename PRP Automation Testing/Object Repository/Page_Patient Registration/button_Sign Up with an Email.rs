@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign Up with an Email</name>
+   <tag></tag>
+   <elementGuidId>b92d3680-ba01-46e8-bb0b-7b2a759d11ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prp-btn-signup-email</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='prp-btn-signup-email']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>159ca8fe-bda1-4aa3-9dd7-a4ea7330c30e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a05c5564-b363-4835-8cec-00bd7063c263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>prp-btn-signup-email</value>
+      <webElementGuid>1bdbebde-2788-40b3-8b52-589af17e0fa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-with-email col-9</value>
+      <webElementGuid>180b7336-8169-4ab9-9533-6fe2b4ab55f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up with an Email
+                        </value>
+      <webElementGuid>d3941053-9ab8-4977-9cdf-1532f1314000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prp-btn-signup-email&quot;)</value>
+      <webElementGuid>1b361ff3-920e-47f3-b4ce-316347830960</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='prp-btn-signup-email']</value>
+      <webElementGuid>69ae162c-cb0a-4f03-8273-a39d5073d3d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='signUpV2']/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>70336ebe-b09f-4d9f-8b1f-62ddba568912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare is a journey. Start here.'])[1]/following::button[1]</value>
+      <webElementGuid>4b35dcc9-cdc5-41d9-aca4-48c003e0c8df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an account'])[1]/following::button[1]</value>
+      <webElementGuid>ae4d4fc0-2143-4e03-8eb0-8b97184207a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up with'])[1]/preceding::button[1]</value>
+      <webElementGuid>a6730b61-687c-4cc2-8bf3-73464453df1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button</value>
+      <webElementGuid>cc2efc68-c4e5-404d-8c46-f364cd6300ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'prp-btn-signup-email' and (text() = 'Sign Up with an Email
+                        ' or . = 'Sign Up with an Email
+                        ')]</value>
+      <webElementGuid>f0d7e2c8-098b-45fb-94cb-7f896188f025</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

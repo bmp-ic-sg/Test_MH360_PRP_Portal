@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User entered wrong OTP code after clicking submit button.</description>
+   <name>TCF 1.3 Wrong OTP after Submit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35331e75-7cfb-44a5-91b2-f505c5459c05</testCaseGuid>
+</TestCaseEntity>

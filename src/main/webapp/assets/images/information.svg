@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <filter id="ojivlqd71a" width="143.8%" height="143.8%" x="-21.9%" y="-15.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0360010362 0 0 0 0 0.544514949 0 0 0 0 0.559471241 0 0 0 0.3 0"/>
+        </filter>
+        <filter id="eyrl1m0yxc" width="150%" height="150%" x="-25%" y="-17.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0360010362 0 0 0 0 0.544514949 0 0 0 0 0.559471241 0 0 0 0.3 0"/>
+        </filter>
+        <circle id="cd5q9vra8b" cx="16" cy="16" r="16"/>
+        <circle id="ognhdxzs7d" cx="16" cy="16" r="14"/>
+        <path id="tymoofq6ze" d="M12.75 9v8.143h.75V18h-3v-.857h.75V9.857h-.75V9h2.25zm-.825-3c.621 0 1.125.503 1.125 1.125 0 .62-.504 1.125-1.125 1.125S10.8 7.746 10.8 7.125c0-.622.504-1.125 1.125-1.125z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-28.000000, -132.000000) translate(0.000000, 134.000000) translate(32.000000, 0.000000)">
+                        <use fill="#000" filter="url(#ojivlqd71a)" xlink:href="#cd5q9vra8b"/>
+                        <use fill="#FFF" xlink:href="#cd5q9vra8b"/>
+                    </g>
+                    <g transform="translate(-28.000000, -132.000000) translate(0.000000, 134.000000) translate(32.000000, 0.000000)">
+                        <use fill="#000" filter="url(#eyrl1m0yxc)" xlink:href="#ognhdxzs7d"/>
+                        <use fill="#008D91" xlink:href="#ognhdxzs7d"/>
+                    </g>
+                    <g>
+                        <g transform="translate(-28.000000, -132.000000) translate(0.000000, 134.000000) translate(32.000000, 0.000000) translate(4.000000, 4.000000)">
+                            <circle cx="12" cy="12" r="10.5" stroke="#FFF" stroke-linecap="round"/>
+                            <path d="M0 0H24V24H0z"/>
+                            <g fill="#FFF" fill-rule="nonzero">
+                                <use xlink:href="#tymoofq6ze"/>
+                                <use xlink:href="#tymoofq6ze"/>
+                            </g>
+                        </g>
+                        <path d="M0 0H24V24H0z" transform="translate(-28.000000, -132.000000) translate(0.000000, 134.000000) translate(32.000000, 0.000000) translate(4.000000, 4.000000)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

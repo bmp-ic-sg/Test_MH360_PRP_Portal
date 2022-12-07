@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Indonesian</name>
+   <tag></tag>
+   <elementGuidId>cd1acd7c-6174-4394-9e65-9f5aa8139b19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.group.group-nationality > div.input-group.form-group > div.country-select.inside > div.flag-dropdown > ul.country-list > li.country.preferred.highlight > span.country-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='personal_info_part']/form/div[6]/div/div/div/ul/li[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>88a688b1-e21c-4e33-bdbf-b68fdb0d840a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>country-name</value>
+      <webElementGuid>4e873955-62f0-40f6-b059-9acad7c88e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Indonesian</value>
+      <webElementGuid>8954fdb4-031e-433d-8cde-2b922bcf0abb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personal_info_part&quot;)/form[1]/div[@class=&quot;group group-nationality&quot;]/div[@class=&quot;input-group form-group&quot;]/div[@class=&quot;country-select inside&quot;]/div[@class=&quot;flag-dropdown&quot;]/ul[@class=&quot;country-list&quot;]/li[@class=&quot;country preferred highlight&quot;]/span[@class=&quot;country-name&quot;]</value>
+      <webElementGuid>4a9cd915-7569-44dc-be8b-8756f914003e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personal_info_part']/form/div[6]/div/div/div/ul/li[2]/span</value>
+      <webElementGuid>bc8e7d7f-2c02-4094-b2e6-e3daa341a9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singaporean'])[1]/following::span[1]</value>
+      <webElementGuid>cff42bf3-dcad-4dac-9175-9248f3a69909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/following::span[2]</value>
+      <webElementGuid>35b1aa07-659e-4f8e-bd1a-8c4ccc5307f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malaysian'])[1]/preceding::span[1]</value>
+      <webElementGuid>837651a6-b9c5-4330-a407-1c805db253f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afghan'])[1]/preceding::span[2]</value>
+      <webElementGuid>d6e1848b-43fd-499a-a6f0-6360ae49404d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Indonesian']/parent::*</value>
+      <webElementGuid>fbad5c8a-51c3-4588-82e0-7dec3b0b968d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/ul/li[2]/span</value>
+      <webElementGuid>258bc328-e61d-4a7a-bdb7-18f83c7e8af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Indonesian' or . = 'Indonesian')]</value>
+      <webElementGuid>11bbf85e-e478-4f66-a3db-bab16cce2888</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

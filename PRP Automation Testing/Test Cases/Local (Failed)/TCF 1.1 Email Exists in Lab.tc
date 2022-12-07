@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User enters registered email</description>
+   <name>TCF 1.1 Email Exists in Lab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f51f5ef1-e027-4b40-8eab-bdb3c18707b4</testCaseGuid>
+</TestCaseEntity>

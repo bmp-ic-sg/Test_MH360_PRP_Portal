@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE urlrewrite
+    PUBLIC "-//tuckey.org//DTD UrlRewrite 4.0//EN"
+    "http://www.tuckey.org/res/dtds/urlrewrite4.0.dtd">
+
+<urlrewrite>
+
+    <rule>
+        <from>^/$</from>
+        <to>/WEB-INF/signUp.jsp</to>
+    </rule>
+
+    <rule>
+        <from>^/signUps$</from>
+        <to>signUps.jsp</to>
+    </rule>
+    
+    <rule>
+        <from>^/mobile/verify$</from>
+        <to>/WEB-INF/otp.jsp</to>
+    </rule>
+
+    <rule>
+        <from>^/mobile/validate$</from>
+        <to>/WEB-INF/verifyOTP.jsp</to>
+    </rule>
+
+    <rule>
+        <from>^/register$</from>
+        <to>/WEB-INF/registration.jsp</to>
+    </rule>
+
+    <rule>
+        <from>^/register/success$</from>
+        <to>/WEB-INF/success.jsp</to>
+    </rule>
+
+    <rule>
+        <from>^/terms-and-conditions$</from>
+        <to>/WEB-INF/terms-and-conditions.jsp</to>
+    </rule>
+
+    <rule>
+        <from>^/myinfo$</from>
+        <to>/WEB-INF/myinfo.jsp</to>
+    </rule>
+
+</urlrewrite>

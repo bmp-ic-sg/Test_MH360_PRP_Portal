@@ -1,0 +1,59 @@
+new Vue({
+    el: "#signUp",
+    data: {
+        isLoading: false,
+        redirectUri: "",
+    },
+    methods: {
+        signUp: function (method) {
+            var vm = this;
+            if (method === "myInfo") {
+                vm.isLoading = true;
+                location = CONTEXT_URL + "/rest/myinfo/authorize";
+            }
+        },
+        getRedirectUrl: function () {
+            var vm = this;
+            axios.get(CONTEXT_URL + "/rest/redirect").then((response) => {
+                vm.redirectUri = response.data.redirectUri;
+                vm.isLoading = false;
+            });
+        },
+        gotoLogin: function () {
+            window.href.location = this.redirectUri;
+        },
+        removeSession: async function () {
+            var vm = this;
+            vm.isLoading = true;
+            try {
+                await axios
+                    .get(CONTEXT_URL + "/rest/sessions/clear")
+                    .then(() => {
+                        console.log("OK");
+                        return true;
+                    })
+                    .catch((error) => {
+                        console.log(error.response);
+                    })
+                    .then(() => {
+                        vm.isLoading = false;
+                    });
+            } catch (error) {
+                console.log(error);
+            }
+        },
+    },
+    mounted: function () {
+        this.removeSession();
+        this.getRedirectUrl();
+        const urlParams = new URLSearchParams(window.location.search);
+        const message = urlParams.get('message');
+        if(message){
+            window.history.pushState({}, document.title, window.location.pathname);
+            $("#errorMyInfo").html(unescape(message));
+            setTimeout(function(){
+                $(".toast-danger").toast("show");
+            },100)
+        }
+    },
+});

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>prod</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Profile name</description>
+      <initValue>'PROD'</initValue>
+      <name>ProfileName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>PROD MH360 PRP url</description>
+      <initValue>'https://ssosod.parkwaypantai.com/mh360-signup'</initValue>
+      <name>BaseUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

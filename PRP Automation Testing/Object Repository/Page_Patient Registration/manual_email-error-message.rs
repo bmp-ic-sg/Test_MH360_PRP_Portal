@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>manual_email-error-message</name>
+   <tag></tag>
+   <elementGuidId>b3ca67c2-9f0e-47fb-b6f3-999485d2b01e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prp-helper-input-email-exist</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prp-helper-input-email-exist']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc860a90-fd43-4a3a-b174-2bcd726cce1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>prp-helper-input-email-exist</value>
+      <webElementGuid>f08fd97b-1601-4816-a622-389c843e1ce4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-small invalid-feedback text-left d-block</value>
+      <webElementGuid>1d9ad51a-bb15-4c4f-8f2f-d309af3b11de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This email already exists.
+                                        </value>
+      <webElementGuid>68c2e9e2-5561-4b36-934a-f0b9075cabca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prp-helper-input-email-exist&quot;)</value>
+      <webElementGuid>6110bd10-b254-49ca-9d30-859819b17a33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='prp-helper-input-email-exist']</value>
+      <webElementGuid>b77e451c-7c2a-493a-8d01-e6ebf67e29c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account_info_part']/form/div/div/div</value>
+      <webElementGuid>e82ed7fd-3916-40b5-b8e1-7b446897b709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[1]</value>
+      <webElementGuid>ece051af-f5c1-4574-bda5-e36e6b7b8b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create My Profile'])[1]/following::div[3]</value>
+      <webElementGuid>ef954c73-45a2-4756-b745-d65e1c915329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>f314d341-b1fa-4f0e-b5c8-ade7f8918fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='At least one number'])[1]/preceding::div[3]</value>
+      <webElementGuid>b199ea27-fbbb-464b-8914-08124b46e4ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This email already exists.']/parent::*</value>
+      <webElementGuid>89c207eb-0f46-41f2-bfe5-92e6d3405502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div</value>
+      <webElementGuid>61e0e2ad-8359-4cbd-99be-662e45b1461c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'prp-helper-input-email-exist' and (text() = 'This email already exists.
+                                        ' or . = 'This email already exists.
+                                        ')]</value>
+      <webElementGuid>68cb8aed-b417-4be8-bf41-ef29db2dad21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

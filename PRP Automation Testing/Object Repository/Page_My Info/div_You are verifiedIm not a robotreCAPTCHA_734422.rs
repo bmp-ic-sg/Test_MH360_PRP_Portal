@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_You are verifiedIm not a robotreCAPTCHA_734422</name>
+   <tag></tag>
+   <elementGuidId>ebe52693-fce5-40ca-a50b-526a49ad532b</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rc-anchor-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'rc-anchor-container' and (text() = concat(&quot;You are verifiedI&quot; , &quot;'&quot; , &quot;m not a robotreCAPTCHAPrivacy - Terms&quot;) or . = concat(&quot;You are verifiedI&quot; , &quot;'&quot; , &quot;m not a robotreCAPTCHAPrivacy - Terms&quot;)) and @ref_element = 'Object Repository/Page_My Info/iframe_Password_a-b3cvr2c4vnzu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c8f7afb-fc7c-4c3b-a34c-2ae2f22259fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rc-anchor-container</value>
+      <webElementGuid>d4d91135-4c30-42b3-a7fa-3ae1eb199f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-anchor rc-anchor-normal rc-anchor-light</value>
+      <webElementGuid>36b2ec90-fa52-4ca4-aff5-9bda0887f9a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You are verifiedI'm not a robotreCAPTCHAPrivacy - Terms</value>
+      <webElementGuid>8a011aeb-be42-46c5-86a8-32dc29ea523c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-anchor-container&quot;)</value>
+      <webElementGuid>73e1a9f5-92d2-4e49-84ed-fc55959cf000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_My Info/iframe_Password_a-b3cvr2c4vnzu</value>
+      <webElementGuid>09696934-75b8-45fd-b2a5-690be2e891f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='rc-anchor-container']</value>
+      <webElementGuid>61b1d81a-dae0-4a5c-bac2-12636f0079b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>2c8ad29d-e4ba-4b53-9c73-c6ab11f49f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'rc-anchor-container' and (text() = concat(&quot;You are verifiedI&quot; , &quot;'&quot; , &quot;m not a robotreCAPTCHAPrivacy - Terms&quot;) or . = concat(&quot;You are verifiedI&quot; , &quot;'&quot; , &quot;m not a robotreCAPTCHAPrivacy - Terms&quot;))]</value>
+      <webElementGuid>fecfdc4d-3077-4f56-bcf2-ed7f4eb77f93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

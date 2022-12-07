@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Accept and Continue</name>
+   <tag></tag>
+   <elementGuidId>ce987f43-dd85-45ff-bc60-c6a4a3bc2808</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prp-btn-submit-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='prp-btn-submit-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2cb543b9-817c-45dd-a374-85f065f23555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8ba1495d-3202-4fa5-99f5-134ec844ef48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>prp-btn-submit-1</value>
+      <webElementGuid>c794b7ca-4cfe-43f9-bfd4-f2e2194ded1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary text-white text-16px</value>
+      <webElementGuid>add76c21-ace2-4046-acae-e78ef393cebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accept and Continue
+                                    </value>
+      <webElementGuid>341e56a6-e691-4d62-92eb-0c5f7a375edb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prp-btn-submit-1&quot;)</value>
+      <webElementGuid>3411bb35-7ac4-41d0-bc65-2c1e12363aff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='prp-btn-submit-1']</value>
+      <webElementGuid>84acfb78-5aa0-4cc3-b588-c1ea5259c09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account_info_part']/form/div[6]/button</value>
+      <webElementGuid>1282d9cf-7e51-4874-ac3d-5a4c73b37adc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimum 8 characters'])[1]/following::button[1]</value>
+      <webElementGuid>4e1f5fcf-14cc-49ef-8158-073ceddc6414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='At least one special character'])[1]/following::button[1]</value>
+      <webElementGuid>e99a6df7-8138-4c85-bd41-875e776f74b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MyHealth360 Data Privacy Policy'])[1]/preceding::button[1]</value>
+      <webElementGuid>3822607c-e01d-4629-989c-cea10f6cd9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'prp-btn-submit-1', '&quot;', ')')])[1]/preceding::button[2]</value>
+      <webElementGuid>e19168a3-258a-48ee-b792-9c550e3ef725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept and Continue']/parent::*</value>
+      <webElementGuid>2ebd0d5a-ac9f-459f-86bd-b1474c824a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>deffbfb9-dc32-4980-9d47-181268227f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'prp-btn-submit-1' and (text() = 'Accept and Continue
+                                    ' or . = 'Accept and Continue
+                                    ')]</value>
+      <webElementGuid>d73ab996-924f-4238-986a-1cc195fe542a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify users can navigate to &quot;WhatsApp assistance&quot;</description>
+   <name>TC1.2 WhatsApp Assistance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3e89858-cfe0-418e-b3e1-4267f09c2893</testCaseGuid>
+</TestCaseEntity>

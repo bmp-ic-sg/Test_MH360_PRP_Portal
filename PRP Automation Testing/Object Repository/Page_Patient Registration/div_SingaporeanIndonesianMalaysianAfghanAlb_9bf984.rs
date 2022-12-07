@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SingaporeanIndonesianMalaysianAfghanAlb_9bf984</name>
+   <tag></tag>
+   <elementGuidId>97bd3f3f-5df0-4db8-a3ab-ff08b18c3d8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.group.group-nationality > div.input-group.form-group > div.country-select.inside</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='personal_info_part']/form/div[6]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>278cd6e9-9e8f-4d1d-a506-74661a2c1ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>country-select inside</value>
+      <webElementGuid>c6630688-e22d-451a-a202-e87a1b05cc96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SingaporeanIndonesianMalaysianAfghanAlbanianAlgerianAmericanAndorranAngolanAntiguansArgentineanArmenianAustralianAustrianAzerbaijaniBahamianBahrainiBangladeshiBarbadianBarbudansBatswanaBatswanaBelarusianBelgianBelizeanBenineseBhutaneseBolivianBrazilianBritishBruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCentral  AfricanChadianChileanColombianComoranCongoleseCosta  RicanCroatianCubanCypriotCzechDanishDjiboutiDominicanDutchDutchEast  TimoreseEcuadoreanEgyptianEmirianEquatorial  GuineanEritreanEstonianEthiopianFijianFilipinoFinnishFrenchGaboneseGambianGeorgianGermanGhanaianGreekGrenadianGuatemalanGuinea BissauanGuineanGuyaneseHaitianHerzegovinianHerzegovinianHonduranHungarianIcelanderIndianIndonesianIranianIraqiIrishIrishIsraeliItalianIvorianJamaicanJapaneseJordanianKazakhstaniKenyanKittian and NevisianKuwaitiKyrgyzLaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgerMacedonianMalagasyMalawianMalaysianMaldivanMalianMalteseMarshalleseMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMoroccanMosothoMozambicanNamibianNauruanNepaleseNew ZealanderNi-VanuatuNicaraguanNigerienNigerienNorth KoreanOmaniPakistaniPalauanPanamanianPapua New GuineanParaguayanPeople's Republic of ChinaPeruvianPolishPortugueseQatariRomanianRussianRwandanSaint LucianSalvadoranSamoanSan MarineseSao TomeanSaudiSenegaleseSerbianSeychelloisSierra LeoneanSingaporeanSlovakianSlovenianSolomon  IslanderSomaliSouth AfricanSouth KoreanSpanishSri LankanSudaneseSurinamerSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTonganTrinidadian or TobagonianTunisianTurkishTuvaluanUgandanUkrainianUruguayanUzbekistaniVenezuelanVietnameseYemeniteZambianZimbabwean</value>
+      <webElementGuid>c33e8136-8be5-40ab-be55-c85b290e8fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personal_info_part&quot;)/form[1]/div[@class=&quot;group group-nationality&quot;]/div[@class=&quot;input-group form-group&quot;]/div[@class=&quot;country-select inside&quot;]</value>
+      <webElementGuid>eac8f49c-5e62-46c7-a0c6-5274242db336</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personal_info_part']/form/div[6]/div/div</value>
+      <webElementGuid>13501733-903d-40cc-8f85-65f0032cd77c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/following::div[2]</value>
+      <webElementGuid>ca670b79-41bd-48be-92fc-851525118f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zimbabwe'])[1]/following::div[3]</value>
+      <webElementGuid>f560beec-80bf-4c67-a438-a8f357cb2848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div</value>
+      <webElementGuid>b87fdc10-47db-4332-9445-14dccda08693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;SingaporeanIndonesianMalaysianAfghanAlbanianAlgerianAmericanAndorranAngolanAntiguansArgentineanArmenianAustralianAustrianAzerbaijaniBahamianBahrainiBangladeshiBarbadianBarbudansBatswanaBatswanaBelarusianBelgianBelizeanBenineseBhutaneseBolivianBrazilianBritishBruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCentral  AfricanChadianChileanColombianComoranCongoleseCosta  RicanCroatianCubanCypriotCzechDanishDjiboutiDominicanDutchDutchEast  TimoreseEcuadoreanEgyptianEmirianEquatorial  GuineanEritreanEstonianEthiopianFijianFilipinoFinnishFrenchGaboneseGambianGeorgianGermanGhanaianGreekGrenadianGuatemalanGuinea BissauanGuineanGuyaneseHaitianHerzegovinianHerzegovinianHonduranHungarianIcelanderIndianIndonesianIranianIraqiIrishIrishIsraeliItalianIvorianJamaicanJapaneseJordanianKazakhstaniKenyanKittian and NevisianKuwaitiKyrgyzLaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgerMacedonianMalagasyMalawianMalaysianMaldivanMalianMalteseMarshalleseMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMoroccanMosothoMozambicanNamibianNauruanNepaleseNew ZealanderNi-VanuatuNicaraguanNigerienNigerienNorth KoreanOmaniPakistaniPalauanPanamanianPapua New GuineanParaguayanPeople&quot; , &quot;'&quot; , &quot;s Republic of ChinaPeruvianPolishPortugueseQatariRomanianRussianRwandanSaint LucianSalvadoranSamoanSan MarineseSao TomeanSaudiSenegaleseSerbianSeychelloisSierra LeoneanSingaporeanSlovakianSlovenianSolomon  IslanderSomaliSouth AfricanSouth KoreanSpanishSri LankanSudaneseSurinamerSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTonganTrinidadian or TobagonianTunisianTurkishTuvaluanUgandanUkrainianUruguayanUzbekistaniVenezuelanVietnameseYemeniteZambianZimbabwean&quot;) or . = concat(&quot;SingaporeanIndonesianMalaysianAfghanAlbanianAlgerianAmericanAndorranAngolanAntiguansArgentineanArmenianAustralianAustrianAzerbaijaniBahamianBahrainiBangladeshiBarbadianBarbudansBatswanaBatswanaBelarusianBelgianBelizeanBenineseBhutaneseBolivianBrazilianBritishBruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCentral  AfricanChadianChileanColombianComoranCongoleseCosta  RicanCroatianCubanCypriotCzechDanishDjiboutiDominicanDutchDutchEast  TimoreseEcuadoreanEgyptianEmirianEquatorial  GuineanEritreanEstonianEthiopianFijianFilipinoFinnishFrenchGaboneseGambianGeorgianGermanGhanaianGreekGrenadianGuatemalanGuinea BissauanGuineanGuyaneseHaitianHerzegovinianHerzegovinianHonduranHungarianIcelanderIndianIndonesianIranianIraqiIrishIrishIsraeliItalianIvorianJamaicanJapaneseJordanianKazakhstaniKenyanKittian and NevisianKuwaitiKyrgyzLaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgerMacedonianMalagasyMalawianMalaysianMaldivanMalianMalteseMarshalleseMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMoroccanMosothoMozambicanNamibianNauruanNepaleseNew ZealanderNi-VanuatuNicaraguanNigerienNigerienNorth KoreanOmaniPakistaniPalauanPanamanianPapua New GuineanParaguayanPeople&quot; , &quot;'&quot; , &quot;s Republic of ChinaPeruvianPolishPortugueseQatariRomanianRussianRwandanSaint LucianSalvadoranSamoanSan MarineseSao TomeanSaudiSenegaleseSerbianSeychelloisSierra LeoneanSingaporeanSlovakianSlovenianSolomon  IslanderSomaliSouth AfricanSouth KoreanSpanishSri LankanSudaneseSurinamerSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTonganTrinidadian or TobagonianTunisianTurkishTuvaluanUgandanUkrainianUruguayanUzbekistaniVenezuelanVietnameseYemeniteZambianZimbabwean&quot;))]</value>
+      <webElementGuid>3bb44512-dc95-417f-aaba-92bf6107d7a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

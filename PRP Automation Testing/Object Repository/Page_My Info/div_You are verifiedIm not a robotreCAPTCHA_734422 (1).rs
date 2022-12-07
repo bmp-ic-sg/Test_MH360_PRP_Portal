@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_You are verifiedIm not a robotreCAPTCHA_734422 (1)</name>
+   <tag></tag>
+   <elementGuidId>31d5b11c-80ea-4ef1-ad43-55a05c40dae7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rc-anchor-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-anchor-container']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e8e29967-68db-4eb8-9763-757b472f7fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rc-anchor-container</value>
+      <webElementGuid>71ee2031-2c4e-4746-a0f8-f31488083bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-anchor rc-anchor-normal rc-anchor-light</value>
+      <webElementGuid>7e750d5c-126d-486b-b10b-115bb48d36ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You are verifiedI'm not a robotreCAPTCHAPrivacy - Terms</value>
+      <webElementGuid>d194433b-25ed-40bc-9981-03f43dad07d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-anchor-container&quot;)</value>
+      <webElementGuid>1434b1bd-5e8e-4707-9108-d78d18785b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_My Info/iframe_Minimum 8 characters_a-83b05gbzoyud</value>
+      <webElementGuid>705cd5f2-238f-433f-b0d9-5dbe3c7ba42b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='rc-anchor-container']</value>
+      <webElementGuid>e8dd26a4-d35a-444d-87a1-f1990660f48c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>1e1d53e6-19a7-4ad2-95b2-d1d6f0bb82c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'rc-anchor-container' and (text() = concat(&quot;You are verifiedI&quot; , &quot;'&quot; , &quot;m not a robotreCAPTCHAPrivacy - Terms&quot;) or . = concat(&quot;You are verifiedI&quot; , &quot;'&quot; , &quot;m not a robotreCAPTCHAPrivacy - Terms&quot;))]</value>
+      <webElementGuid>55ec3dbd-7b2d-4464-91c0-f32d5e8cf1c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

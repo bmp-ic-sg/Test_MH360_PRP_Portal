@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_motorcycles_rc-imageselect-checkbox</name>
+   <tag></tag>
+   <elementGuidId>d7441c20-5bea-47e7-a4a9-b997ae986175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-imageselect-target']/table/tbody/tr[2]/td[3]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dbe55d42-d1c3-4da1-bc65-58d44971d154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-imageselect-checkbox</value>
+      <webElementGuid>0a6f6f06-8b4d-4ca5-897f-f38fb3875e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-imageselect-target&quot;)/table[@class=&quot;rc-imageselect-table-44&quot;]/tbody[1]/tr[2]/td[@class=&quot;rc-imageselect-tile rc-imageselect-tileselected&quot;]/div[@class=&quot;rc-image-tile-target&quot;]/div[@class=&quot;rc-imageselect-checkbox&quot;]</value>
+      <webElementGuid>0d65f346-2dea-402d-a6ea-fecca4f618b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Patient Registration/iframe_Apply_c-26l3jortjzd1</value>
+      <webElementGuid>a81a6ae6-5891-48df-a36d-f6425a373bff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-imageselect-target']/table/tbody/tr[2]/td[3]/div/div[2]</value>
+      <webElementGuid>49b9f767-0118-48dc-bea6-b0f41ba78a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]/div/div[2]</value>
+      <webElementGuid>51cda706-1a03-4e0a-8ae9-65e4aee4d80d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

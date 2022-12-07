@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Call me again in  20</name>
+   <tag></tag>
+   <elementGuidId>65d47fe8-a99d-40d5-bbc0-d628cec399e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='countdownID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#countdownID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e46e20a5-0738-45b4-9bf2-bb8c6669b522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>countdownID</value>
+      <webElementGuid>66602eed-3c90-4f88-a2a4-9adef0e4d044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-15px text-secondary-dark-grey text-center mt-3</value>
+      <webElementGuid>035bebb9-b020-4bc4-a86e-8b13780d4133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Call me again in : 20.
+                            </value>
+      <webElementGuid>767fb5e1-98fd-4b86-8b03-0c129454d1ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;countdownID&quot;)</value>
+      <webElementGuid>fcd1b6af-0671-4f6c-aed9-c91d3b3a9502</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='countdownID']</value>
+      <webElementGuid>95ccf23f-d58e-4f7d-ab8c-4d585732d9f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='verification-part']/div[3]/div</value>
+      <webElementGuid>c40b0b17-7d6f-4b91-84f3-86096665e0e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You can choose to receive your OTP by a voice call by tapping below.'])[1]/following::div[2]</value>
+      <webElementGuid>8cd2f014-d5df-4417-9f3d-10ece18f53af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify'])[1]/preceding::div[5]</value>
+      <webElementGuid>7c56666f-2724-4ed0-a688-8116bd5c0a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'countdownID', '&quot;', ')')])[1]/preceding::div[12]</value>
+      <webElementGuid>cf34ba30-08be-44dd-931e-27eb5e115a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Call me again in : 20.']/parent::*</value>
+      <webElementGuid>51bad778-9544-4f92-84b1-1639aa5f8e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div</value>
+      <webElementGuid>b1098d83-ef1d-4af2-b18d-5ce611e66287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'countdownID' and (text() = '
+                                Call me again in : 20.
+                            ' or . = '
+                                Call me again in : 20.
+                            ')]</value>
+      <webElementGuid>9b09adc0-adc2-46a9-84c7-310fc3e6f661</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

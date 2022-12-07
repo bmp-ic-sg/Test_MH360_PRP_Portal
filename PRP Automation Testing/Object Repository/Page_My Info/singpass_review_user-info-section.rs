@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>singpass_review_user-info-section</name>
+   <tag></tag>
+   <elementGuidId>280c0fc6-7088-4500-b612-71ffab9dd375</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='review-section']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.border.border-primary.p-3.rounded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0c48f40-e1df-4bdd-b7e1-de6ffab25147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row  border border-primary p-3 rounded</value>
+      <webElementGuid>250780f5-7382-4003-bde6-1ec70be97cfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Full NameMR MYINFO A Gendermale DOB1967-11-13 Nationalitysingaporean NRIC / FINS6005051A Emailmyinfotesting@gmail.com Mobile+65 97399245</value>
+      <webElementGuid>1af66dca-3188-4079-903b-ecc4eed26a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;review-section&quot;)/div[@class=&quot;row  border border-primary p-3 rounded&quot;]</value>
+      <webElementGuid>57010cdc-b4d1-4ce6-9f9f-519487dd360b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='review-section']/div</value>
+      <webElementGuid>13f4e022-048f-4d82-bda8-84a715b956fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review My Profile'])[1]/following::div[2]</value>
+      <webElementGuid>ecd8ba48-404c-44a7-9429-8cbdd8381f64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error occured'])[1]/following::div[17]</value>
+      <webElementGuid>0826ccf3-1794-4b00-9b36-06373e14aa17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>ac8dd46b-51e5-4cf8-8460-ee6ccfe8c52a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Full NameMR MYINFO A Gendermale DOB1967-11-13 Nationalitysingaporean NRIC / FINS6005051A Emailmyinfotesting@gmail.com Mobile+65 97399245' or . = 'Full NameMR MYINFO A Gendermale DOB1967-11-13 Nationalitysingaporean NRIC / FINS6005051A Emailmyinfotesting@gmail.com Mobile+65 97399245')]</value>
+      <webElementGuid>ceffb32f-2f79-4cfc-9b1d-34022145497c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

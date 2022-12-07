@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create Password  Email    Password     _990202</name>
+   <tag></tag>
+   <elementGuidId>ce23ad9c-b9b6-457b-bb45-c3fa7ddc91b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myinfo']/div[3]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>60c58782-06ec-43f0-b13b-90f2abef09f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>a2d31a1c-583f-470d-9297-7060e4dc15b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>      Create Password  Email    Password         Submit </value>
+      <webElementGuid>8d4aba16-c669-44c1-b330-288ad14c94b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myinfo&quot;)/div[@class=&quot;layout-box&quot;]/div[@class=&quot;col mx-auto&quot;]/div[@class=&quot;card border-0 px-3&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>193c8c86-7f9d-4f53-a7be-9cd87cbfa0db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6c42966b-d17b-4ed7-b386-804b73b04a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>ad57023d-74ea-48c9-a1d7-fbfb54c91e96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>      Create Password  Email    Password         Submit </value>
+      <webElementGuid>21f82174-86bb-4cff-bad7-ee093fc736de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myinfo&quot;)/div[@class=&quot;layout-box&quot;]/div[@class=&quot;col mx-auto&quot;]/div[@class=&quot;card border-0 px-3&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>fbfbb86b-8bb3-4f77-8c39-2e73d8d4d2ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myinfo']/div[3]/div/div[2]/div</value>
+      <webElementGuid>182636f7-014d-4183-8e67-4d3fa7b5c201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error occured'])[1]/following::div[5]</value>
+      <webElementGuid>bf73a1f8-e1e4-4edd-8862-d5df3f6debbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign-up Successful'])[1]/following::div[11]</value>
+      <webElementGuid>66c664d2-4a9b-4ac6-966c-f6a6dfcaa841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>e7e0033b-cede-4d91-8dff-065d4f6d28f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '      Create Password  Email    Password         Submit ' or . = '      Create Password  Email    Password         Submit ')]</value>
+      <webElementGuid>8cf46734-8add-42f5-ab45-b7f7113b06e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
